@@ -13,4 +13,4 @@ I enjoy building practical software and learning through projects, from REST API
 
 ## Areas of interest
 
-Software engineering, web development, backend APIs, databases and cybersecurity...
+Software engineering, web development, backend APIs, databases, cybersecurity, and beyond.
