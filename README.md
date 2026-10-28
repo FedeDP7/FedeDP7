@@ -1,6 +1,6 @@
 ## About me
 
-I'm Federico, a Computer Science graduate from the **University of Udine**, currently studying Computer Science at the **University of Padua** (IMS track).
+I'm Federico, a Computer Science graduate with a bachelor's degree from the **University of Udine**, currently studying for a master's degree in Computer Science at the **University of Padua** (IMS track).
 
 I enjoy building practical software and learning through projects, from REST APIs and databases to modern web applications.
 
