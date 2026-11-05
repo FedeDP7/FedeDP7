@@ -9,7 +9,7 @@ Computer Science graduate from the **University of Udine**, currently pursuing a
 I enjoy building practical software and learning through projects, from REST APIs and databases to web applications.
 
 <p>
-  <a href="https://fededp7.github.io/"><img src="https://img.shields.io/badge/Portfolio-fededp7.github.io-2563EB?style=flat-square&logo=githubpages&logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="mailto:federico.delpup@proton.me"><img src="https://img.shields.io/badge/Email-federico.delpup%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email: federico.delpup@proton.me" /></a>
   <a href="https://www.linkedin.com/in/federico-del-pup/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
